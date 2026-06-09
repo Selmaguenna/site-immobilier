@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold-prestige: #D4AF37;
+  --color-gold-prestige-hover: #BCA033;
+  --color-gold-prestige-light: #F4EAD4;
+}
+
+@layer utilities {
+  .border-gold-prestige {
+    border-color: var(--color-gold-prestige);
+  }
+}

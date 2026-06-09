@@ -1,0 +1,6 @@
+{
+  "name": "Agence Immobilière",
+  "description": "Plateforme immobilière professionnelle, moderne et responsive pour consulter des biens immobiliers, effectuer des recherches avancées et contacter l'agence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
